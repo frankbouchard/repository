@@ -1,6 +1,6 @@
 <?php
 
-echo 'hello world motha fucka';
+echo 'hello world motha faafaa';
 
 
 ?>
